@@ -4,4 +4,8 @@
   </a>
 </p>
 
-# Python-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Python-Highlights/main/images/Python.png" alt="Python Highlights" width="600">
+</p>
+
+> This section highlights experience using Python for scripting, automation, and cybersecurity tasks.
